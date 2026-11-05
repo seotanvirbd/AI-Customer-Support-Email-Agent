@@ -1,4 +1,4 @@
-# AI Customer Support
+#  AI Customer Support Email Agent: Gmail Auto-Reply with Pydantic AI, FastAPI and RAG Knowledge Base
 
 An AI email agent that answers customer support emails from a Gmail inbox. It runs on a
 knowledge base, and when it's unsure it hands the email to a person.
